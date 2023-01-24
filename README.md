@@ -7,7 +7,8 @@ The production company wants to plan their every move analytically based on data
 ## Dataset 
 
 - RSVP Case Study Questions.sql : The SQL script file for the questions to be answered.
-- IMDB Dataset :The dataset is in Excel format. This file contains the tables and the ERD diagram to help you understand the relationship between those tables. 
+- IMDb+movies+Data+and+ERD+final.xt :The dataset is in Excel format. This file contains the tables and the ERD diagram to help you understand the relationship between those tables. 
+- 
 
 ## Details of files given
 
