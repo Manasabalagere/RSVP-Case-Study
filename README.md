@@ -7,7 +7,7 @@ The production company wants to plan their every move analytically based on data
 ## Dataset 
 
 - RSVP Case Study Questions.sql : The SQL script file for the questions to be answered.
-- IMDb+movies+Data+and+ERD+final.xt :The dataset is in Excel format. This file contains the tables and the ERD diagram to help you understand the relationship between those tables. 
+- IMDb+movies+Data+and+ERD+final.xlsx :The dataset is in Excel format. This file contains the tables and the ERD diagram to help you understand the relationship between those tables. 
 - IMDB+dataset+import.sql : The SQL script file given contains all the commands and data required for the database creation using the Excel sheet. You can run this script to load the data on the MySQL workbench and start with the querying exercises on the database.
 
 ## Details of files given
